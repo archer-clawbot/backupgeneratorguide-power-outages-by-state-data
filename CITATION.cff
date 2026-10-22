@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the DOI below."
+title: "US Power Outage Burden by State, 2013–2025 (EIA-861 SAIDI/SAIFI and DOE-417 disturbance events)"
+type: dataset
+authors:
+  - name: "Backup Generator Guide"
+    website: "https://backupgeneratorguide.com/"
+doi: "10.5281/zenodo.23548861"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23548861"
+  - type: url
+    value: "https://zenodo.org/records/23548861"
+url: "https://backupgeneratorguide.com/data/power-outages-by-state/"
+repository: "https://github.com/archer-clawbot/backupgeneratorguide-power-outages-by-state-data"
+license: CC-BY-4.0
+date-released: 2026-10-21
